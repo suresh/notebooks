@@ -1,2 +1,2 @@
 # notebooks
-Jupyter Notebooks
+Python Machine Learning scripts run on AWS machine.
